@@ -164,12 +164,6 @@
     text-decoration: underline;
 }
 
-.advertencia svg{
-    position: absolute;
-    top:73%;
-    left: 6.5%;
-    
-}
 
 .botones{
     display:inline-block;
@@ -275,15 +269,10 @@ background: transparent;
         left: 20%;
     }
      .advertencia h5{
-        left: 28%;
+        left: 25%;
         top: 40%;
         width: 50%;
         text-align: center;
-    }
-
-    .advertencia svg{
-        top: 38.5%;
-        left: 25%;
     }
 
     .botones{
@@ -353,17 +342,13 @@ background: transparent;
         top: 17%;   
         left: 20%;
     }
+
      .advertencia h5{
-        left: 9%;
+        left: 5%;
         top: 42%;
         width: 90%;
         text-align: center;
         font-size:12px;
-    }
-
-    .advertencia svg{
-        left: 8.5%;
-        top:39.5%;
     }
 
     .botones{
